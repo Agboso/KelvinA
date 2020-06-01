@@ -1,2 +1,4 @@
-# HNG Internship - Task 1
+# HNG 7 Internship 
+
+Task 1
 
